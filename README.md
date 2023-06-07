@@ -1,6 +1,6 @@
 # FulgMap Plugin by Namo
 
-Fulgurite map Plugin for batclient 
+Fulgurite map Plugin for batclient https://www.bat.org/play/batclient
 
 https://github.com/AcidLeha/FulgMap/releases/download/1.0.0/NamoFulgMap.jar
 
@@ -11,10 +11,13 @@ https://github.com/AcidLeha/FulgMap/releases/download/1.0.0/NamoFulgMap.jar
 ![[https://github.com/AcidLeha/FlugMap/blob/main/FulgMapPluginPreview.jpg?raw=true]](https://github.com/AcidLeha/FulgMap/blob/main/FulgMapPluginPreview.png)
 
 
-
 # Installation
 ### Windows
-  dowload jar to %USERPROFILE%/batclient/plugins
-  restart the client
+  - place NamoFulgMap.jar file in %USERPROFILE%/batclient/plugins folder
+  - restart the batclient
     
-### mac
+### mac / linux
+  - download NamoFulgMap.jar to ~/batclient/plugins
+  - restart batclient
+  
+  
