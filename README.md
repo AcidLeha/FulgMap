@@ -2,6 +2,8 @@
 
 Fulgurite map Plugin for batclient 
 
+https://github.com/AcidLeha/FulgMap/releases/download/1.0.0/NamoFulgMap.jar
+
 - Adds colors to map (big thanks to Atlas)
 - Adds coordinates (when possible)
 - Adds url with possible location(s) to https://www.tnsp.org/maps/
